@@ -7,3 +7,4 @@ rencana konten contoh
 -membuat video project membuat robot hexapod
   menggunakan arduino
 -membuat drone yang bisa autopilot
+  dronenya pakai arduino
