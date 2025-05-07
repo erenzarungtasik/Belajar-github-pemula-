@@ -1,5 +1,6 @@
 rencana konten contoh
 -membuat video mengenai cad
+  membuat video mengenai autocad
 -membuat video project mengenai membuat drone
 -membuat video project mengenai membuat robot tangan
 -membuat video project membuat robot hexapod
